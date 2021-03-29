@@ -1,7 +1,7 @@
 {
   "name": "tiny-ui",
   "theme": "ui",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A colorful theme for Atom Text Editor",
   "keywords": [
     "ui",
