@@ -9,7 +9,7 @@
     "color",
     "neon"
   ],
-  "repository": "https://github.com/DidierHA/tiny-syntax",
+  "repository": "https://github.com/DidierHA/tiny-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
